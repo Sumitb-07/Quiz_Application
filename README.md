@@ -40,3 +40,5 @@ For this task, I have developed an Interactive Quiz Application, focusing on use
 - Ensuring mobile responsiveness for a better user experience
 
 **Bonus**: Change the app's theme between light and dark
+
+**Output** : ![Image](https://github.com/user-attachments/assets/e9961683-7cfc-478a-bb62-126d23f84653)
